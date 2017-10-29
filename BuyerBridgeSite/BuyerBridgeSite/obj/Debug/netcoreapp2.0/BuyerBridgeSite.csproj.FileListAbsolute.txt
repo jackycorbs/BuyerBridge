@@ -1,0 +1,12 @@
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\bin\Debug\netcoreapp2.0\BuyerBridgeSite.deps.json
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\bin\Debug\netcoreapp2.0\BuyerBridgeSite.runtimeconfig.json
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\bin\Debug\netcoreapp2.0\BuyerBridgeSite.runtimeconfig.dev.json
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\bin\Debug\netcoreapp2.0\BuyerBridgeSite.dll
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\bin\Debug\netcoreapp2.0\BuyerBridgeSite.pdb
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\obj\Debug\netcoreapp2.0\BuyerBridgeSite.csprojResolveAssemblyReference.cache
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\obj\Debug\netcoreapp2.0\BuyerBridgeSite.csproj.CoreCompileInputs.cache
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\obj\Debug\netcoreapp2.0\BuyerBridgeSite.AssemblyInfoInputs.cache
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\obj\Debug\netcoreapp2.0\BuyerBridgeSite.AssemblyInfo.cs
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\obj\Debug\netcoreapp2.0\BuyerBridgeSite.dll
+C:\Projects\GIT\BuyerBridge\BuyerBridgeSite\BuyerBridgeSite\obj\Debug\netcoreapp2.0\BuyerBridgeSite.pdb
